@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Okta467
 - 👀 I’m interested and work in web development (fullstacK)
--     > My projects mostly for college student
--     > List of my project (not updated): https://okta467.github.io/QGIS_Okta467/
--     > currently use CodeIgniter 3 and PHP Native for my project 
--     > Bootstrap, JQuery, MySQL
--     > have studied ruby on rails (via Progate, so I'm still newbie I guess)
+-    > My projects mostly for college student
+-    > List of my project (not updated): https://okta467.github.io/QGIS_Okta467/
+-    > currently use CodeIgniter 3 and PHP Native for my project 
+-    > Bootstrap, JQuery, MySQL
+-    > have studied ruby on rails (via Progate, so I'm still newbie I guess)
 - 🌱 I’m currently learning 
 -    > Laravel
 -    > Vue JS 
