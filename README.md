@@ -5,7 +5,10 @@
 -     > currently use CodeIgniter 3 and PHP Native for my project 
 -     > Bootstrap, JQuery, MySQL
 -     > have studied ruby on rails (via Progate, so I'm still newbie I guess)
-- 🌱 I’m currently learning Laravel, Vue JS, React JS
+- 🌱 I’m currently learning 
+-    > Laravel
+-    > Vue JS 
+-    > React JS
 - 📫 How to reach me
 -    > Email: oktaalfiansyah@gmail.com
 -    > LinkedIn: https://www.linkedin.com/in/okta-alfiansyah-3b603015b/
