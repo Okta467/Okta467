@@ -1,6 +1,6 @@
-#### 👋 Hi, I’m @Okta467
+#### Hi, I’m @Okta467
 
-#### 👀 I’m interested and work in web development (fullstack)
+#### I’m interested and work in web development (fullstack)
 -    My projects mostly for `college student`
 -    List of my project (not updated yet): https://okta467.github.io/QGIS_Okta467/
 -    Currently use `CodeIgniter 3` and `PHP Native` for my project 
@@ -11,7 +11,7 @@
 -    10fastfingers (typing): https://10fastfingers.com/user/1858945/
 -    Osu (rythm game to improve my finger speed [typing]): https://osu.ppy.sh/users/7293506
 
-#### 🌱 I’m currently learning 
+#### I’m currently learning 
 -    > Laravel
 -    > Vue JS 
 -    > React JS
