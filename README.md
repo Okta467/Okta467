@@ -5,8 +5,10 @@ Hello, I'm a fullstack (full-stuck) web developer!
 -    Frontend --> Vue JS, React JS, Bootstrap, JQuery
 
 #### Other Interest
--    Typing --> https://10fastfingers.com/user/1858945/
+-    Typing --> https://monkeytype.com/profile/Okta467, https://10fastfingers.com/user/1858945/
 -    Rythm Game (Osu!Mania) --> https://osu.ppy.sh/users/7293506
+-    Hackerrank --> https://www.hackerrank.com/oktaalfiansyah
+-    Sololearn --> https://www.sololearn.com/profile/11157896
 
 #### 📫 How to reach me
 -    Email: oktaalfiansyah@gmail.com
